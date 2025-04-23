@@ -7,6 +7,6 @@ I believe good software should spark a strong emotional response — delight, cl
 ## Currently...
 
 - Spending time at the [Recurse Center](https://www.recurse.com/) — building weird & useful things, pairing, writing code for fun again
-- Designing a **recipe CMS** cheflog ([github](https://github.com/mashnoon33/chilioil) / [web](https://cheflog.app)) — versioning, validation, custom markdown, and some spicy access controls
-- Prototyping a **social calendar** ([github](https://github.com/mashnoon33/hang) / [web](https://hang.mash.studio)) — smart reminders, RSVP flow that makes sense, and playful design  
+- Designing a **recipe CMS** cheflog ([repo](https://github.com/mashnoon33/chilioil) / [web](https://cheflog.app)) — versioning, validation, custom markdown, and some spicy access controls
+- Prototyping a **social calendar** ([repo](https://github.com/mashnoon33/hang) / [web](https://hang.mash.studio)) — smart reminders, RSVP flow that makes sense, and playful design  
 - Tinkering with hardware to generate analytics out of sourdough starters
